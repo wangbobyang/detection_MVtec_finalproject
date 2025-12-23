@@ -17,4 +17,4 @@ numpy == 1.22
 
 Results
 
-<img src='imgs/123.png' width=600 height=250>
+<img src='123.png' width=600 height=250>
