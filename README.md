@@ -15,6 +15,3 @@ torch >= 2.0.0
 torchvision == 0.14.1
 numpy == 1.22
 
-Results
-
-<img src='123.png' width=600 height=250>
